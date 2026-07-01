@@ -1,4 +1,4 @@
-package Project1;
+package decodelabes_tasks.Project1;
 
 import java.util.Random;
 import java.util.Scanner;
